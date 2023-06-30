@@ -1,5 +1,15 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
+title: <p align="center"> Abhishek Raj P </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/abhishek-raj-p-96032959/">LinkedIn</a> |
+  <a href="https://github.com/abhi41289">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+
+  <br>
+  </p>
